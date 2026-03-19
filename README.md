@@ -5,7 +5,7 @@
 ### Credits
 
 - **SagePtr**<br>Автор идеи и модуля PHP 8.3: [https://github.com/SagePtr/openserver-php-8.3](https://github.com/SagePtr/openserver-php-8.3)<br><br>
-- **Gemorroj**<br>Много кастомных модулей включая бд: [https://github.com/Gemorroj/openserver](https://github.com/SagePtr/openserver-php-8.3)
+- **Gemorroj**<br>Много кастомных модулей включая бд: [https://github.com/Gemorroj/openserver](https://github.com/Gemorroj/openserver)
 
 ### Что внутри
 
